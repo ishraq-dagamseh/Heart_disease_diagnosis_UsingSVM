@@ -13,7 +13,7 @@ While the next image shows  the decision boundaries using RBF to capture complex
 #  RBF Maps data implicitly into a high-dimensional feature space. Allows non-linear decision boundaries and gamma controls the influence of each training sample.
 
 
-Finally, we concluded that the best one was the simple RBF , because the two kernels reached to very close resuts, but the nature of the problem is a non-linear problem and that is the work of the RBF.
+Finally, we concluded that the best one was the simple RBF , because the two kernels reached to very close resuts, but the nature of the problem is a non-linear problem and that is the work of the RBF. Maybe that indicate that we have very complex model on simple data.
 
 
 
